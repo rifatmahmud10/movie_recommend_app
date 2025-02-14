@@ -1,7 +1,9 @@
 # Ignore the virtual environment folder
 .venv/
 .idea/
-*.pkl
+model/similarity.pkl
+model/movie_list.pkl
+
 
 # Ignore environment variables
 .env
